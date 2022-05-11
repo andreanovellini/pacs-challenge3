@@ -6,7 +6,7 @@ column-major storage, according to the second template parameter (which is an en
 In the case of the uncompressed state, the data is stored in COOMap format, the compressed
 state employs CSR or CSC format, depending on the storage type.
 
-The `main_matrix.cpp` does nothing much useful, apart from showing the main funcitonalities that have been implemented, such as:
+The `main_matrix.cpp` does nothing much useful, apart from showing the main functionalities that have been implemented, such as:
 - matrix-vector product of compressed and uncompressed matrices, both in a row-wise and column-wise representation;
 - computing the `One`, `Infinity` and `Frobenius` norms of the matrix;
 - reading the matrix from a `matrix market format`.
