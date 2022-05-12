@@ -1,0 +1,26 @@
+[
+    {
+        "arguments": [
+            "g++",
+            "-c",
+            "-o",
+            "mmio.o",
+            "mmio.c"
+        ],
+        "directory": "/home/geonove/PACS/challenges/challenge3",
+        "file": "mmio.c"
+    },
+    {
+        "arguments": [
+            "g++",
+            "-c",
+            "-Wall",
+            "-std=c++20",
+            "-o",
+            "main_matrix.o",
+            "main_matrix.cpp"
+        ],
+        "directory": "/home/geonove/PACS/challenges/challenge3",
+        "file": "main_matrix.cpp"
+    }
+]

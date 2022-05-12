@@ -18,4 +18,4 @@ As a test case, it is used the matrix found in https://math.nist.gov/MatrixMarke
 To buid the program, it is enough to run the `make` command.
 
 ## Run
-To run the main program, run the command `./main_matrix lnsp_131.mtx`
+To run the main program, run the command `./main_matrix lnsp_131.mtx` or  `make run`.
