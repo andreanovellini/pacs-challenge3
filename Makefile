@@ -14,3 +14,5 @@ clean:
 distclean: clean
 	$(RM) main_matrix
 
+run:
+	./main_matrix lnsp_131.mtx
