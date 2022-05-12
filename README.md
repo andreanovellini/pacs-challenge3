@@ -12,7 +12,7 @@ The `main_matrix.cpp` does nothing much useful, apart from showing the main func
 - reading the matrix from a `matrix market format`.
 
 Moreover, it tests the computation time of the matrix-vector product, in all the possible ways mentioned above.
-As a test case, it is used the matrix found in https://math.nist.gov/MatrixMarket/data/Harwell-Boeing/lns/lnsp_131.html.
+It is used, as test case, the matrix found in https://math.nist.gov/MatrixMarket/data/Harwell-Boeing/lns/lnsp_131.html.
 
 ## Build
 To buid the program, it is enough to run the `make` command.
